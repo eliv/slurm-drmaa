@@ -1,0 +1,16 @@
+# configure and build output
+*.lo
+*.o
+*.la
+Makefile
+config.*
+Doxyfile
+libtool
+stamp-h1
+*.deps
+*.libs
+drmaa_utils/drmaa_utils/drmaa-run
+drmaa_utils/drmaa_utils/hpc-bash
+
+# Vim swap files
+*.swp
